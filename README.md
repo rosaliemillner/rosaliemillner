@@ -5,11 +5,11 @@
 
 ---
 
-I am currently a research intern at **Adobe**, working on geometry-aware material editing in natural images. 
+Hi! I am currently a research intern at **Adobe**, working on geometry-aware material editing in natural images. 
 
 I am also completing my Master 2 at **École Normale Supérieure Paris-Saclay**, specialising in Mathematics and Programming applied to Machine and Deep Learning.
 
-My research interests are focused on Computer Vision, Computer Graphics, Image and Video processing, Generative AI, as well as Statistical Modelling. 
+My research interests are now focused on Computer Vision, Computer Graphics, Image and Video processing, Generative AI, as well as Statistical Modelling. 
 
 Outside of academics, I am passionate about film-making and video editing. 🎞️🎥
 
