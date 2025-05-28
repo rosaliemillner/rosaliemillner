@@ -1,4 +1,4 @@
-# Rosalie Millner <span style="font-size: 0.9em;">@ ENS Paris-Saclay | Sorbonne University
+# Rosalie Millner <span style="font-size: 0.9em;">@ ENS Paris-Saclay | Dauphine-PSL
 <div align="center">
   <img src="./profile_picture.jpeg" alt=“Rosalie Millner” width="200" style="border-radius: 100%; margin: 10px;">
 </div>
@@ -15,7 +15,7 @@ Outside of academics, I am passionate about film-making and video editing. 🎞�
 
 ---
 
-You can reach me on LinkedIn or via email at rosalie@millner.fr
+You can reach me on LinkedIn or on email via rosalie@millner.fr
 
 <!--
 **rosaliemillner/rosaliemillner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
