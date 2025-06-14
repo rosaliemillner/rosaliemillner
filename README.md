@@ -15,7 +15,7 @@ Outside of academics, I am passionate about film-making and video editing. 🎞�
 
 ---
 
-You can reach me on LinkedIn or on email via rosalie@millner.fr
+You can reach me on LinkedIn or on email via rosalie@millner.fr.
 
 <!--
 **rosaliemillner/rosaliemillner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
