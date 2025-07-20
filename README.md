@@ -1,6 +1,6 @@
 # Rosalie Millner <span style="font-size: 0.9em;">@ ENS Paris-Saclay | Dauphine-PSL
 <div align="center">
-  <img src="./photo.JPG" alt=“Rosalie Millner” width="200" style="border-radius: 100%; margin: 10px;">
+  <img src="./pic.JPG" alt=“Rosalie Millner” width="200" style="border-radius: 100%; margin: 10px;">
 </div>
 
 ---
